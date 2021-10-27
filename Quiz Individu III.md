@@ -7,9 +7,9 @@
 
 1. Pertama - tama silahkan menuju link download flogorithm dengan [klik disini](http://www.flowgorithm.org/download/index.html)
 2. Pilih dan klik **Windows 64-bit**
-![image](https://user-images.githubusercontent.com/92983457/138626183-8502884d-9266-498f-86d1-63222919a9ff.png)
+![WhatsApp Image 2021-10-27 at 23 40 06](https://user-images.githubusercontent.com/93004722/139099838-5d360b5b-4851-4de9-b9b0-a0821ab81948.jpeg)
 3. buka file yang sudah terdownload tadi dan extract file dimana saja anda suka
-![image](https://user-images.githubusercontent.com/92983457/138626540-81f706f3-5267-4cbe-b404-39c027d336c3.png)
+![WhatsApp Image 2021-10-27 at 23 41 18](https://user-images.githubusercontent.com/93004722/139099860-2c592a8e-ffe4-4a8b-b3c9-f88714e82f98.jpeg)
 4. cari folder tempat file yang anda extract tadi maka akan terlihat 2 file didalam folder tsb 
 ![image](https://user-images.githubusercontent.com/92983457/138626870-2f834839-08a3-4fcc-bb78-d3800867b402.png)
 5.jalan kan setup dan ikuti gambar-gambar dibawah ini dengan asumsi pc anda sudah melakukan langkah 0
